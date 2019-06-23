@@ -15,7 +15,7 @@
 
 # 屏幕截图
 
-![Alt text](ScreenShots/start.png) ![Alt text](ScreenShots/login.png) ![Alt text](ScreenShots/regist.png) ![Alt text](ScreenShots/userInfo.png) ![Alt text](ScreenShots/main.png)
+![Alt text](ScreenShots/start.png) ![Alt text](ScreenShots/login.png) ![Alt text](ScreenShots/regist.png) ![Alt text](ScreenShots/setting.png) ![Alt text](ScreenShots/userInfo.png) ![Alt text](ScreenShots/main.png)
 
 ## 结语
     
